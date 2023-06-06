@@ -11,8 +11,10 @@ int main()
 
     int n ; 
     cin >> n ;
+    //FOR OUTER LOOP 
 
 for (int row = 0 ; row < n ; row ++ ) {
+    // FOR INNNER LOOP 
 
     for (int col = 0 ; col < row + 1 ; col ++ ) {
 

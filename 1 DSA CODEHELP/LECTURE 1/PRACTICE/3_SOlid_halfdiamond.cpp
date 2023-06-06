@@ -17,6 +17,7 @@ int main()
         // }
 
         // else {
+            
         //     cond = n - (row % n ) - 2 ;
         // }
 
